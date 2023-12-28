@@ -1,2 +1,2 @@
 # course_git
-for learning git and github
+##this repo is for learning git and github whit Ossama Elzziro
